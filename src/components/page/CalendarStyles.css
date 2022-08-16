@@ -1,0 +1,11 @@
+/** @format */
+
+.layout {
+    background-color: antiquewhite;
+    padding: 20px;
+    margin: 0 10vh;
+}
+
+.alert {
+    margin: 5rem;
+}
